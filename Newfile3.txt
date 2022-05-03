@@ -1,1 +1,2 @@
 Developer 1: New Changes
+Developer 2: Updated as instructed from Git Hub
